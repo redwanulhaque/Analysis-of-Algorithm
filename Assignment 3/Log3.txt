@@ -1,0 +1,33 @@
+Random pattern: CEILI
+
+              Trials #50
+            -------------
+    Search         Times of Each Search
+-------------     ----------------------
+Native Search              0.94s
+Brute Force                0.289s
+KnuthMorrisPratt           0.582s
+RabinKarp                  0.792s
+
+Random pattern: OKOKFOW
+
+              Trials #400
+            -------------
+    Search         Times of Each Search
+-------------     ----------------------
+Native Search              0.7s
+Brute Force                0.26s
+KnuthMorrisPratt           0.49s
+RabinKarp                  0.65s
+
+Random pattern: IDAWORDTHA
+
+              Trials #700
+            -------------
+    Search         Times of Each Search
+-------------     ----------------------
+Native Search              0.2s
+Brute Force                0.4s
+KnuthMorrisPratt           0.30s
+RabinKarp                  0.52s
+
